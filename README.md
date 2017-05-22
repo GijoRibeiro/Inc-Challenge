@@ -7,15 +7,12 @@
 > * only facilitator used was scss, only to organize variables
 > * create separated Div for the reference product, in the same row of the others recommended products
 
-
 # Links
 #### Static
 http://prismoo.duckdns.org/
 
 #### Responsive
 http://prismoo.duckdns.org/responsive/
-
-#
 
 # Breakdown
 

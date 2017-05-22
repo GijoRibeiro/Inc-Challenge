@@ -9,6 +9,7 @@
 
 
 # Links
+#### Static
 http://prismoo.duckdns.org/
 
 #### Responsive

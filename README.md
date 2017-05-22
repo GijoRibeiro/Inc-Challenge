@@ -65,5 +65,7 @@ var refContainer       = document.getElementById("refContainer");
 
 the others inside the file are made only to change how the data comes on the screen, they are totally unecessary to present.
 
- # Link
+# Link
 http://prismoo.duckdns.org/
+# Responsive
+http://prismoo.duckdns.org/responsive/

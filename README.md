@@ -1,5 +1,13 @@
 # Inc Challenge
 
+>   This challenge consists of receiving JSON data, in a set of native JS/CSS/HTML tags, without the help of any framework.
+>
+> * created own CSS 'column' mechanism, using % of screen
+> * loads all of the objects and hide to paginate
+> * only facilitator used was scss, only to organize variables
+> * create separated Div for the reference product, in the same row of the others recommended products
+
+
 # Links
 http://prismoo.duckdns.org/
 
@@ -7,12 +15,6 @@ http://prismoo.duckdns.org/
 http://prismoo.duckdns.org/responsive/
 
 #
->   This challenge consists of receiving JSON data, in a set of native JS/CSS/HTML tags, without the help of any framework.
->
-> * created own CSS 'column' mechanism, using % of screen
-> * loads all of the objects and hide to paginate
-> * only facilitator used was scss, only to organize variables
-> * create separated Div for the reference product, in the same row of the others recommended products
 
 # Breakdown
 

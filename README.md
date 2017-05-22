@@ -1,5 +1,10 @@
 # Inc Challenge
 
+# Link
+http://prismoo.duckdns.org/
+# Responsive
+http://prismoo.duckdns.org/responsive/
+
 >   This challenge consists of receiving JSON data, in a set of native JS/CSS/HTML tags, without the help of any framework.
 >
 > * created own CSS 'column' mechanism, using % of screen
@@ -64,8 +69,3 @@ var refContainer       = document.getElementById("refContainer");
 ```
 
 the others inside the file are made only to change how the data comes on the screen, they are totally unecessary to present.
-
-# Link
-http://prismoo.duckdns.org/
-# Responsive
-http://prismoo.duckdns.org/responsive/

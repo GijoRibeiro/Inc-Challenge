@@ -1,9 +1,9 @@
 # Inc Challenge
 
-# Link
+# Links
 http://prismoo.duckdns.org/
-# Responsive
 http://prismoo.duckdns.org/responsive/
+
 
 >   This challenge consists of receiving JSON data, in a set of native JS/CSS/HTML tags, without the help of any framework.
 >
